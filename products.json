@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "pname": "A",
+      "price": 500,
+      "quantity": 5,
+      "image": "https://images.pexels.com/photos/2536965/pexels-photo-2536965.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "id": 2
+    },
+    {
+      "pname": "m",
+      "price": 550,
+      "quantity": 5,
+      "image": "https://images.pexels.com/photos/2536965/pexels-photo-2536965.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "id": 4
+    },
+    {
+      "pname": "m",
+      "price": 550,
+      "quantity": 5,
+      "image": "https://media.istockphoto.com/photos/female-hands-holding-shopping-basket-with-cosmetics-on-pink-beauty-picture-id1247952445?b=1&k=20&m=1247952445&s=170667a&w=0&h=SQI-u1SZSeGEfSJZBxqAk0XLTNbDWxTqkBT7-GYio88=",
+      "id": 5
+    }
+  ]
+}
